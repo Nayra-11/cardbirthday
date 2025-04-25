@@ -1,0 +1,2 @@
+C:/Users/pc/StudioProjects/CardBirthday/android/app/.cxx/Debug/263e6n12/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/pc/StudioProjects/CardBirthday/android/app/.cxx/Debug/263e6n12/armeabi-v7a/CMakeFiles/rebuild_cache.dir
